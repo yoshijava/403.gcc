@@ -27,3 +27,7 @@ Thread model: posix
 The solution posted in gnu's mailing list is based on c++ technique, so not applicable for 403.gcc which is based on gcc 3.2
 Attached please find my own handcrafted patch.
 ```
+
+# Notes
+* 403.gcc source code falls under the GPLv2
+* Any results using this patch would not be official SPEC metrics, please see www.spec.org/fairuse.html
